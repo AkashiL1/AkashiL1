@@ -1,16 +1,38 @@
-## Hi there 👋
+# Lucas-Ribeiro
+# 👋 Olá! Eu sou o Lucas Ribeiro
 
-<!--
-**AkashiL1/AkashiL1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em construção | Estudante de Engenharia de Software  
+🚀 Apaixonado por tecnologia, automações e soluções práticas  
+🎯 Buscando oportunidades para crescer como desenvolvedor e contribuir com projetos reais
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que estou estudando
+- HTML, CSS, JavaScript
+- React (básico), Node.js
+- PostgreSQL, MySQL
+- Git, GitHub
+- Conceitos de Cibersegurança
+
+---
+
+## 🎓 Formação
+- Engenharia de Software — Faculdade Descomplica  
+- Aprendizado contínuo via projetos, cursos e experiências práticas
+
+---
+
+## 📈 Em busca de:
+- Estágio ou oportunidades como Dev Júnior (Web/Back-end)
+- Projetos freelance ou colaborativos
+- Mentorias e boas conexões na comunidade tech 🚀
+
+---
+
+## 📫 Onde me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucasribeiro22/)
+- 🐙 Aqui no [GitHub](https://github.com/LucasRibeiro22)
+
+---
+
+_“Sempre aprendendo. Sempre construindo.”_
