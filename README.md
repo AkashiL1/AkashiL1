@@ -1,38 +1,47 @@
-# Lucas-Ribeiro
-# 👋 Olá! Eu sou o Lucas Ribeiro
-
-💻 Desenvolvedor em construção | Estudante de Engenharia de Software  
-🚀 Apaixonado por tecnologia, automações e soluções práticas  
-🎯 Buscando oportunidades para crescer como desenvolvedor e contribuir com projetos reais
+<h1 align="center">👋 Olá! Eu sou o Lucas Ribeiro</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Desenvolvedor+em+construção+🚧;Estudante+de+Engenharia+de+Software;Sempre+aprendendo+%F0%9F%93%9A+Sempre+construindo" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Tecnologias que estou estudando
-- HTML, CSS, JavaScript
-- React (básico), Node.js
-- PostgreSQL, MySQL
-- Git, GitHub
-- Conceitos de Cibersegurança
+### 🧠 Sobre mim
+
+- 🎓 Estudante de Engenharia de Software na **Faculdade Descomplica**
+- 💼 Buscando desafios reais no mundo da tecnologia
+- 🔐 Interessado por cibersegurança, back-end, automações e SaaS
+- 🤝 Sempre aberto a oportunidades, projetos e colaborações
 
 ---
 
-## 🎓 Formação
-- Engenharia de Software — Faculdade Descomplica  
-- Aprendizado contínuo via projetos, cursos e experiências práticas
+### 🛠️ Tecnologias & Ferramentas
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ---
 
-## 📈 Em busca de:
-- Estágio ou oportunidades como Dev Júnior (Web/Back-end)
-- Projetos freelance ou colaborativos
-- Mentorias e boas conexões na comunidade tech 🚀
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AkashiL1&show_icons=true&theme=tokyonight&count_private=true&hide=stars" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashiL1&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
 ---
 
-## 📫 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucasribeiro22/)
-- 🐙 Aqui no [GitHub](https://github.com/LucasRibeiro22)
+### 🌐 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasribeiro22/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/AkashiL1)
 
 ---
 
-_“Sempre aprendendo. Sempre construindo.”_
+_“Sempre aprendendo. Sempre construindo.”_ ✨
