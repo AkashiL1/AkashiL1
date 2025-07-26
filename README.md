@@ -41,7 +41,6 @@
 ### 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasribeiro22/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/AkashiL1)
 
 ---
 
